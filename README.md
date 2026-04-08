@@ -41,7 +41,11 @@ Zero servers. Zero manual work. Fully event-driven.
 ## Author
 
 Sadhvi Sharma
+
 Nokia 5G Cloud Engineer transitioning to AWS Cloud and AI Engineering
+
 Calgary, Canada
-github.com/sadvi11
-linkedin.com/in/sadhvi-sharma-5789a6249
+
+GitHub: github.com/sadvi11
+
+LinkedIn: linkedin.com/in/sadhvi-sharma-5789a6249
